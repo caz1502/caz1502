@@ -8,11 +8,11 @@
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caz1502&layout=compact&show_icons=true&theme=radical))](https://github.com/caz1502/github-readme-stats)
 
 ![caz1502 GitHub stats](https://github-readme-stats.vercel.app/api?username=caz1502&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caz1502&layout=compact)](https://github.com/caz1502/github-readme-stats)
+
 
 
 
