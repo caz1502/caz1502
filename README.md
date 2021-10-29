@@ -1,10 +1,8 @@
-[![MasterHead](./banner.png)
+![MasterHead](./banner.png)
 
-- 
-- 👋 Hi, I’m @caz1502
 
-- 🌱 An aspiring developer currently studying with UNISA
-- 
+
+🌱 An aspiring developer currently studying with UNISA
 
 
 
