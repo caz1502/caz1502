@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](./)](https://github.com/caz1502)
 
 - 
 - 👋 Hi, I’m @caz1502
