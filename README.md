@@ -1,4 +1,4 @@
-![MasterHead](./Mechanicallion.jpg)
+![MasterHead](./banner2.png)
 
 
 
