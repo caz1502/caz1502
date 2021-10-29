@@ -1,10 +1,6 @@
-![MasterHead](./banner3.png)
-
 
 
 🌱 An aspiring developer currently studying with UNISA
-
-
 
 
 
