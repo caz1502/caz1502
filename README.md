@@ -3,7 +3,9 @@
 🌱 An aspiring developer currently studying with UNISA
 
 
-![image](https://user-images.githubusercontent.com/84704172/140640509-37877413-3d63-4a4a-8897-80739b684afe.png) carol.shiers@gmail.com
+carol.shiers@gmail.com
+
+https://www.linkedin.com/in/carol-shiers-001420b6/
 
 
 
