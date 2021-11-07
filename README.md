@@ -1,6 +1,6 @@
 
 
-🌱 An aspiring developer currently studying with UNISA
+🌱 An aspiring developer currently studying Full Stack development with the University of Adelaide
 
 
 💌 carol.shiers@gmail.com
