@@ -3,6 +3,9 @@
 🌱 An aspiring developer currently studying with UNISA
 
 
+![image](https://user-images.githubusercontent.com/84704172/140640509-37877413-3d63-4a4a-8897-80739b684afe.png) carol.shiers@gmail.com
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caz1502&layout=compact&show_icons=true&theme=radical)](https://github.com/caz1502/github-readme-stats)
