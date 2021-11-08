@@ -14,7 +14,7 @@ ___
 
 ### Languages
 
-![](https://img.shields.io/static/v1?label=message=HTML&color=blue)
+![](https://img.shields.io/static/v1?message=HTML&color=blue)
 
 ___
 
