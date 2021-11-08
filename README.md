@@ -4,7 +4,7 @@
 
 ### Connect with me
 
-(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) carol.shiers@gmail.com
+[](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) carol.shiers@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/)
 
