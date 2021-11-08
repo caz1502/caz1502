@@ -1,10 +1,8 @@
-
-
-#🌱 An aspiring developer currently studying Full Stack development with the University of Adelaide
+# 🌱 An aspiring developer currently studying Full Stack development with the University of Adelaide
 
 ___
 
-### Conect with me
+### Connect with me
 
 💌 carol.shiers@gmail.com
 
@@ -14,15 +12,15 @@ ___
 
 ___
 
-###Languages
+### Languages
 
 ___
 
-###Framework
+### Framework
 
 ___
 
-###GitHub Stats
+### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caz1502&layout=compact&show_icons=true&theme=radical)](https://github.com/caz1502/github-readme-stats)
 
