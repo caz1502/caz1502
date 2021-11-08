@@ -31,6 +31,12 @@ ___
 
 ---
 
+### Group
+
+[](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+---
+
 ### GitHub Stats
 
 [![GitHub followers](https://img.shields.io/github/followers/caz1502.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/caz1502?tab=followers)
