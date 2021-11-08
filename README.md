@@ -14,7 +14,7 @@ ___
 
 ### Languages
 
-![License](https://img.shields.io/static/v1?label=License&message=HTML&COLOR=blue)
+![License](https://img.shields.io/static/v1?label=License&message=HTML&color=blue)
 
 ___
 
