@@ -30,6 +30,9 @@ ___
 
 ![caz1502 GitHub stats](https://github-readme-stats.vercel.app/api?username=caz1502&show_icons=true&theme=radical)
 
+[![caz1502 github trophy](https://github-profile-trophy.vercel.app/?username=caz1502&row=1)](https://github.com/caz1502/github-profile-trophy)
+
+
 ___
 
 
