@@ -14,6 +14,8 @@ ___
 
 ### Languages
 
+(https://img.shields.io/static/v1?label=Language&message=HTML&color=blue)
+
 ___
 
 ### Framework
