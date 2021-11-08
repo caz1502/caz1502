@@ -1,6 +1,6 @@
 # 🌱 An aspiring developer currently studying Full Stack development with the University of Adelaide
 
-___
+
 
 ### Connect with me
 
