@@ -14,9 +14,7 @@ ___
 
 ### Languages
 
-![](https://img.shields.io/static/v1?label=HTML&color=blue)
-
-![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
+![](https://img.shields.io/static/v1?label=Language&message=HTML&color=blue)
 
 ___
 
