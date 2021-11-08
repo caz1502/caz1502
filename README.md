@@ -6,7 +6,7 @@
 💌 carol.shiers@gmail.com
 
 
-[LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/)
+[LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/)(<a href="https://icons8.com/icon/447/linkedin">LinkedIn icon by Icons8</a>)
 
 [Portfolio](https://caz1502.github.io/Portfolio-Reworked/)
 
