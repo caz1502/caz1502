@@ -2,15 +2,15 @@
 
 🌱 An aspiring developer currently studying Full Stack development with the University of Adelaide
 
+### Conect with me
 
 💌 carol.shiers@gmail.com
 
-
-[LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/)("https://img.icons8.com/ios/50/000000/linkedin.png")
+[LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/)
 
 [Portfolio](https://caz1502.github.io/Portfolio-Reworked/)
 
-
+___
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caz1502&layout=compact&show_icons=true&theme=radical)](https://github.com/caz1502/github-readme-stats)
