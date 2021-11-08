@@ -21,6 +21,8 @@ ___
 
 ### Framework
 
+[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
+
 ___
 
 ### Programmes
