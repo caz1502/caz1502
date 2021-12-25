@@ -4,9 +4,9 @@
 
 ### Connect with me
 
-[Email](mailto:developercaz@gmail.com)
+[Email](mailto:developercaz@gmail.com) developercaz@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/)
+[LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/) www.linkedin.com/in/carol-shiers-001420b6
 
 [Portfolio](https://caz1502.github.io/Portfolio-Reworked/)
 
