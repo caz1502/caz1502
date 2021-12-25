@@ -4,7 +4,7 @@
 
 ### Connect with me
 
-[Email](mailto:carol.shiers@gmail.com)
+[Email](mailto:developercaz@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/)
 
