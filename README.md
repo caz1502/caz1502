@@ -1,10 +1,9 @@
-# 🌱  I am a junior Fullstack Developer based in Brisbane, Queensland, currently studying Fullstack Development through UniSA.
-
+# 🌱  Who Am I
+```md
+I am a junior Fullstack Developer based in Brisbane, Queensland, currently studying Fullstack Development through UniSA.
 I have a passion for innovation, data and empowering people through knowledge, `Scientia potentia est`
-
-Over the last 2 years, I have been transitioning from my Procurement specialty as a Buyer to Business Intelligence in the direction of Data Science & Full Stack Development
-
-
+Over the last 2 years, I have been transitioning from my Procurement specialty as a Buyer to Business Intelligence in the direction of Data Science & Full Stack Development.
+```
 ### Connect with me
 
 [Email](mailto:developercaz@gmail.com) developercaz@gmail.com
