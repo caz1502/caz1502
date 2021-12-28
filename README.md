@@ -9,16 +9,17 @@ Business Intelligence in the direction of Data Science & Full Stack Development.
 
 [Email](mailto:developercaz@gmail.com) developercaz@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/) www.linkedin.com/in/carol-shiers-001420b6
+[LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/) 
 
 [Portfolio](https://caz1502.github.io/Portfolio-Reworked/)
 
 ___
 
 ### Languages
-
-![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-___
+```md
+* HTML
+* CSS
+```
 
 
 ---
