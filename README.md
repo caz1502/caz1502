@@ -1,4 +1,4 @@
-# 🌱 Who I am
+# ✨ Who I am
 ```md
 I am a junior Fullstack Developer based in Brisbane, Queensland, currently studying Fullstack Development through UniSA.
 I have a passion for innovation, data and empowering people through knowledge, `Scientia potentia est`
@@ -19,10 +19,26 @@ ___
 ```md
 * HTML
 * CSS
+* SQL
+* JavaScript
+* JSON
 ```
-
-
----
+### Programmes & Platforms
+```md
+* VS Code
+* GitHub
+* Node JS
+* OracleSQL Developer
+* MySQL
+* Insomnia
+* Heroku
+* Tibco Spotfire
+```
+### Currently Learning
+```md
+* Pyhton
+* Data Science Algorythms
+```
 
 ### GitHub Stats
 
@@ -33,7 +49,6 @@ ___
 ![caz1502 GitHub stats](https://github-readme-stats.vercel.app/api?username=caz1502&show_icons=true&theme=radical)
 
 [![caz1502 github trophy](https://github-profile-trophy.vercel.app/?username=caz1502&row=1)](https://github.com/caz1502/github-profile-trophy)
-
 
 ___
 
