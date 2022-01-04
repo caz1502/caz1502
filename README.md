@@ -11,7 +11,7 @@ Business Intelligence in the direction of Data Science & Full Stack Development.
 
 [LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/) 
 
-[Portfolio](https://caz1502.github.io/Portfolio-Reworked/)
+[Portfolio](https://caz1502.github.io/developercaz/)
 
 ___
 
