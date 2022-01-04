@@ -9,9 +9,9 @@ Business Intelligence in the direction of Data Science & Full Stack Development.
 
 [Email](mailto:developercaz@gmail.com) developercaz@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/carol-shiers-001420b6/) 
+[LinkedIn Profile](https://www.linkedin.com/in/carol-shiers-001420b6/) 
 
-[Portfolio](https://caz1502.github.io/developercaz/)
+[Portfolio Website](https://caz1502.github.io/developercaz/)
 
 ___
 
