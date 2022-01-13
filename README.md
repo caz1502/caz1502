@@ -32,6 +32,7 @@ ___
 * MySQL
 * Insomnia
 * Heroku
+* MongoDB / Mongo Atlas
 * Tibco Spotfire
 ```
 ### Currently Learning
